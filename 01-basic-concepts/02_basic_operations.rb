@@ -1,4 +1,4 @@
-# add 
+# add
 p 1 + 4
 
 # subtract
@@ -18,8 +18,8 @@ p 10 % 3 # 1
 p 3 * 4
 
 # power of 2
-p 2 ** 2
-p 2 ** 3
+p 2**2
+p 2**3
 
 # concatenation
-p "Hello" + "World"
+p 'Hello' + 'World'

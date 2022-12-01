@@ -1,0 +1,14 @@
+# indentation with 4 spaces
+Style/IndentationWidth:
+    Width: 4
+
+# bloc
+
+Layout/MultilineMethodCallIndentation:
+    EnforcedStyle: indented
+
+Layout/MultilineAssignmentLayout:
+    EnforcedStyle: same_line
+
+Layout/EndAlignment:
+    EnforcedStyleAlignWith: variable
