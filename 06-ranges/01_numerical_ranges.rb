@@ -1,3 +1,4 @@
+# typed: strict
 nums = 1..5
 nums1 = 1...5 # not including 5
 nums2 = 1..100 # not including 5

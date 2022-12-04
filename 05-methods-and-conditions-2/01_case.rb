@@ -1,3 +1,4 @@
+# typed: true
 def calculate_school_grade(grade)
     case grade
     when 0..5 # 0, 1, 2, 3, 4, 5

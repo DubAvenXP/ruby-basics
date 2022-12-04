@@ -1,3 +1,4 @@
+# typed: false
 # integers
 p 5
 p 5.class

@@ -1,3 +1,4 @@
+# typed: strict
 # Fetch method is used to get the value of an element in an array
 
 fruits = %w[apple orange pear grape]

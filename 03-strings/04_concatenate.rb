@@ -1,3 +1,4 @@
+# typed: strict
 # ways to concatenate strings
 
 # 1. using the + operator

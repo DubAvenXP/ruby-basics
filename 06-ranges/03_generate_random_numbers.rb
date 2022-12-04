@@ -1,3 +1,4 @@
+# typed: strict
 random_range = rand 10..20 # get random number from 10 to 20
 p random_range
 

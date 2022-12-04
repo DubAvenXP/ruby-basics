@@ -1,3 +1,4 @@
+# typed: strict
 fruits = %w[apple orange pear grape]
 
 p fruits[0] # "apple"

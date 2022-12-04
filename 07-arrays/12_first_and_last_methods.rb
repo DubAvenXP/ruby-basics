@@ -1,3 +1,4 @@
+# typed: true
 numbers = [1, 2, 3, 4, 5]
 
 # first method returns the first element in the array

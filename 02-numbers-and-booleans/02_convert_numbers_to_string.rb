@@ -1,3 +1,4 @@
+# typed: strict
 str = '5'
 p str.class
 

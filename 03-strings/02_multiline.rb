@@ -1,3 +1,4 @@
+# typed: strict
 words = <<MLS
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     This will be a multi-line string

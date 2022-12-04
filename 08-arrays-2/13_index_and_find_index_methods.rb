@@ -1,3 +1,4 @@
+# typed: strict
 colors = %w[red orange yellow green blue indigo violet]
 
 # index method returns the index of the element if it is present in the array

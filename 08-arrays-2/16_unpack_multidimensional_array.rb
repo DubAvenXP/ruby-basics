@@ -1,3 +1,4 @@
+# typed: strict
 users = [
     ['Bob', 19, 'Male'],
     ['Susan', 22, 'Female'],

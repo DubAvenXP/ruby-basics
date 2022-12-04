@@ -1,3 +1,4 @@
+# typed: strict
 # frozen_string_literal: true
 
 # this syntax is recommended when you have a single line of code

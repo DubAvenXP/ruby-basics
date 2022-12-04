@@ -1,3 +1,4 @@
+# typed: strict
 # a variable is a name for a value
 # and it is a space in memory
 name = 'John'

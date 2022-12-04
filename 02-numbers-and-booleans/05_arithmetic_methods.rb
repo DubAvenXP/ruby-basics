@@ -1,3 +1,4 @@
+# typed: strict
 p 10 - 5
 p 10 + 5
 p 10 * 5

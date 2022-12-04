@@ -1,3 +1,4 @@
+# typed: strict
 a = 'Hello, world!'
 b = 'Hello, Ruby!'
 c = ' '

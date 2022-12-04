@@ -1,3 +1,4 @@
+# typed: strict
 alphabet = 'a'..'z' # create a range of letters
 alphabet_complete = 'A'..'z' # includes capital letters
 

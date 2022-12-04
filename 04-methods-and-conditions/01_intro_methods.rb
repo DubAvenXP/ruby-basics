@@ -1,3 +1,4 @@
+# typed: true
 def introduce_myself(name, age)
     greeting = 'Hello'
 

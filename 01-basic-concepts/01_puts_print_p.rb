@@ -1,3 +1,4 @@
+# typed: strict
 # puts method
 # puts method is used to print the output on the screen
 # and it automatically adds a new line at the end of the output

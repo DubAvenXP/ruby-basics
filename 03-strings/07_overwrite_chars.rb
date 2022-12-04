@@ -1,3 +1,4 @@
+# typed: strict
 thing = 'rocket ship'
 p thing
 

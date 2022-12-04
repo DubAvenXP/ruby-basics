@@ -1,3 +1,4 @@
+# typed: false
 # is_a? method is used to check if the object is of a particular class or not
 
 my_array = [1, 2, 3, 4, 5]

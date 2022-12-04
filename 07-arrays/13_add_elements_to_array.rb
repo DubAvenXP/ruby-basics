@@ -1,3 +1,4 @@
+# typed: strict
 locations = %w[House Airport Bar]
 p locations
 

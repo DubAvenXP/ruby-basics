@@ -1,3 +1,4 @@
+# typed: strict
 channels = %w[CBS FOX NBC ESPN UPN]
 
 p channels.values_at(0) # ["CBS"]

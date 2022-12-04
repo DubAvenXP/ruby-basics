@@ -4,6 +4,8 @@ AllCops:
     Exclude:
         - "Gemfile.lock"
         - "Gemfile"
+        - "bin/**/*"
+        - "sorbet/**/*"
 
 # indentation with 4 spaces
 Style/IndentationWidth:

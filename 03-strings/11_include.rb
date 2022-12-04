@@ -1,3 +1,4 @@
+# typed: strict
 name = 'Alejandro Dubon'
 
 # include? returns true if the string contains the substring

@@ -1,3 +1,4 @@
+# typed: strict
 p 5 <= 0
 p 5 < 10
 

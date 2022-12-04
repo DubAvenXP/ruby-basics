@@ -1,3 +1,4 @@
+# typed: strict
 prizes = %w[Pyrite Pyrite Pyrite Pyrite Gold Pyrite Pyrite Pyrite]
 
 prizes.each do |prize|

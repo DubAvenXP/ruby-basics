@@ -1,3 +1,4 @@
+# typed: strict
 # respond_to method is used to check if an object can respond to a method or not
 # this method receives a symbol as an argument and returns true or false
 

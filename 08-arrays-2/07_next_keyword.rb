@@ -1,3 +1,4 @@
+# typed: false
 numbers = [1, 2, 3, 4, 5, nil, 6, 7, 8, nil, [], 9, 'ten', 10, false]
 
 numbers.each do |number|

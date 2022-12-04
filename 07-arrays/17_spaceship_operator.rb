@@ -1,3 +1,4 @@
+# typed: false
 # Spaceship operator returns -1, 0, or 1 depending on the comparison
 # 0 means the two arrays are equal
 # -1 means the first array or element is less than the second array

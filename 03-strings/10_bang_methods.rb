@@ -1,3 +1,4 @@
+# typed: strict
 # a bang method is a method that mutates the caller
 
 word = 'hello'

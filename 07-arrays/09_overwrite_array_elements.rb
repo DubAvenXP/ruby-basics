@@ -1,3 +1,4 @@
+# typed: false
 fruits = %w[apple orange pear grape]
 p fruits
 

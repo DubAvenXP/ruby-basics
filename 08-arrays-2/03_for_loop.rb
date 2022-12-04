@@ -1,3 +1,4 @@
+# typed: strict
 # for loop
 # Is a loop that iterates over a range of numbers
 # In Ruby, the for loop is not used very often

@@ -1,3 +1,4 @@
+# typed: strict
 name = 'Alejandro'
 text = 'Hola MuNdO CoMo EsTaS'
 

@@ -1,3 +1,4 @@
+# typed: strict
 # falsy values in ruby
 # false
 # nil

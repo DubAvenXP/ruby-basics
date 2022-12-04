@@ -1,3 +1,4 @@
+# typed: strict
 # partition method
 # is used to split an array into two arrays
 # based on a condition that you provide

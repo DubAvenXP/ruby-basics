@@ -1,3 +1,4 @@
+# typed: false
 color = 'Black'
 
 if color == 'Red'

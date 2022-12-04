@@ -1,3 +1,4 @@
+# typed: strict
 letters_range = 'a'..'z'
 p letters_range
 letters = letters_range.to_a

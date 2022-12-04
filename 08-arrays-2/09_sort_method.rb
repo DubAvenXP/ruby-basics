@@ -1,3 +1,4 @@
+# typed: strict
 numbers = [1, 0, 40, 50, 33, 11, 2, 3, -10, 100]
 fruits = %w[apple orange grape banana]
 

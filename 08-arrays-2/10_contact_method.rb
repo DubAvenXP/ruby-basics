@@ -1,3 +1,4 @@
+# typed: strict
 # this is the most common way to combine arrays
 p [1, 2, 3, 4] + [5, 6, 7, 8]
 

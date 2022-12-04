@@ -1,3 +1,4 @@
+# typed: false
 # ternary operator
 
 is_nice = true

@@ -1,3 +1,4 @@
+# typed: strict
 puts !1
 puts !0
 puts !true

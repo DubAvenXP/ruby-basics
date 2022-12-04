@@ -1,3 +1,4 @@
+# typed: strict
 name = 'Boris'
 
 puts "Hello, #{name}!" # "Hello, Boris!"

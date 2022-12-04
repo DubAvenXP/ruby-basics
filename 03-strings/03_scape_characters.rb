@@ -1,3 +1,4 @@
+# typed: strict
 puts '1. \'Hello\''
 puts '2.  "Hello"'
 

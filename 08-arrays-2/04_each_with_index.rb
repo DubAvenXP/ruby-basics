@@ -1,3 +1,4 @@
+# typed: strict
 # each_with_index
 # the each_with_index method iterates over an array and returns the index of the current element
 

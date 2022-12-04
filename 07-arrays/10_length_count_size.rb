@@ -1,3 +1,4 @@
+# typed: strict
 things = ['a', 'b', 1, 2, 3, true, false, nil, 1, 2, true, false, nil]
 
 # length method

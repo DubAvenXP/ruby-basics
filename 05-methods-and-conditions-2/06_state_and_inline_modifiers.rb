@@ -1,3 +1,4 @@
+# typed: strict
 number = 500
 verified = true
 

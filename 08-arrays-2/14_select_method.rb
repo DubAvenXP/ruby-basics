@@ -1,3 +1,4 @@
+# typed: strict
 grades = [80, 95, 13, 76, 28, 39]
 fruits = %w[apple pear banana plum apricot]
 

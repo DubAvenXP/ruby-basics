@@ -1,3 +1,4 @@
+# typed: strict
 # This is a comment
 
 puts 'Hello World' # This is a comment

@@ -1,3 +1,4 @@
+# typed: strict
 numbers = [1, 2, 3, 4, 5]
 fruits = %w[apple orange pear grape]
 things = []

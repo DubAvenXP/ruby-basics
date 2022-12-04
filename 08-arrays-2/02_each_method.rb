@@ -1,3 +1,4 @@
+# typed: strict
 # each method is used to iterate over an array
 # it is better to use the each method when you don't need the index
 

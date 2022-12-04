@@ -1,3 +1,4 @@
+# typed: strict
 name2 = 'John'
 name = String.new('John')
 

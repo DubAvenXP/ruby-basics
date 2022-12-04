@@ -1,3 +1,4 @@
+# typed: strict
 3.times { |i| puts "I'm on iteration #{i}!" }
 
 5.times do |i|

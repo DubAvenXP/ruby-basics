@@ -1,3 +1,4 @@
+# typed: strict
 i = 0
 
 until i > 10

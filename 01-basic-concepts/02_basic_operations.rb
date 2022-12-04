@@ -1,3 +1,4 @@
+# typed: strict
 # add
 p 1 + 4
 

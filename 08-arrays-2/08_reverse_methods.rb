@@ -1,3 +1,4 @@
+# typed: strict
 numbers = (1..10).to_a
 fruits = %w[Apple Orange Grape Banana]
 

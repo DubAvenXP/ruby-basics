@@ -1,3 +1,4 @@
+# typed: strict
 # Object methods
 
 p 'Hello, world!'.length # get the length of the string
