@@ -4,7 +4,7 @@ require 'sorbet-runtime'
 
 # Delete Method
 # Is used to remove all characters from a string that are present in the given argument.
-module SqueezeMethod
+module DeleteMethod
     extend T::Sig
 
     sentence = 'Hello, world!'

@@ -4,7 +4,7 @@ require 'sorbet-runtime'
 
 # Clear Method
 # Is used to remove all characters from a string.
-module SqueezeMethod
+module ClearMethod
     extend T::Sig
 
     sentence = 'bla bla bla bla bla bla bla'
