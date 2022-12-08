@@ -1,0 +1,2 @@
+And one more line with file.puts
+And one more line with file.printAnd one more line with file.write\nAppend file.puts
