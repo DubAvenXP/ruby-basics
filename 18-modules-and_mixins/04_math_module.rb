@@ -1,0 +1,10 @@
+puts Math::PI
+puts Math.sqrt(9)
+puts Math.sin(1)
+puts Math.cos(1)
+puts Math.tan(1)
+puts Math.log(1)
+puts Math.log10(1)
+puts Math.exp(1)
+puts Math.hypot(3, 4)
+puts Math.erf(1)
